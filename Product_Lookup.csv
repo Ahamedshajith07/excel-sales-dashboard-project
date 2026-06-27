@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,UnitPrice,ReorderLevel,CurrentStock
+P001,Wireless Mouse,Electronics,25.99,20,15
+P002,USB-C Cable,Electronics,12.5,30,45
+P003,Bluetooth Speaker,Electronics,45,15,8
+P004,Laptop Stand,Accessories,35,10,12
+P005,Mechanical Keyboard,Electronics,89.99,10,5
+P006,Notebook Set,Stationery,8.5,50,60
+P007,Gel Pens (Pack of 10),Stationery,6.25,40,35
+P008,Sticky Notes,Stationery,3.75,60,70
+P009,Desk Organizer,Furniture,22,15,18
+P010,Office Chair,Furniture,145,5,3
+P011,Standing Desk,Furniture,299,4,2
+P012,Webcam HD,Electronics,55,12,9
+P013,Phone Case,Accessories,15.99,25,30
+P014,Laptop Bag,Accessories,42.5,10,6
+P015,Monitor 24-inch,Electronics,159.99,8,4
